@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### I am creator and voice of virtual vocalist Daichi Akiba
 
 - 🔭 I’m currently working on Daichi Akiba the virtual vocalist 
-- 🌱 I’m currently learning JavaScript, Python 
+- 🌱 I’m currently learning JavaScript, Python, Delphi, C++ 
 - 😄 Pronouns: He/him 
 
 
