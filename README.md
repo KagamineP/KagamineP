@@ -1,6 +1,7 @@
 <!-- ### Hi there 👋
 
 
+
 **KagamineP/KagamineP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### NOTE: I am no longer an Russian translator for OpenUtau since they're transferred the localization thing to Crowdin. 
+
+### ПРИМЕЧАНИЕ: Я больше не являюсь переводчиком OpenUtau на русский язык с тех пор, как они перенесли это все добро на Crowdin. 
 
 ### Hi there 👋, my name is Dmitry
 #### I am creator and voice of virtual vocalist Daichi Akiba
