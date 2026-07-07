@@ -1,37 +1,188 @@
-<!-- ### Hi there 👋
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1976D2,100:5E35B1&text=Dmitry Kiryanov&fontSize=70&fontAlignY=40&fontColor=ffffff&desc=Software%20Developer%20%E2%80%A2%20Creator%20of%20Daichi%20Akiba&descAlignY=60"/>
 
+# 👋 Welcome to my GitHub!
 
-**KagamineP/KagamineP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer • Open Source Enthusiast • Creator of Daichi Akiba
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&pause=1700&color=4DA6FF&center=true&vCenter=true&width=850&lines=Building+KagamiShell...;Creating+Daichi+Akiba...;Open+Source+Developer...;Programming+%E2%98%95;Always+learning+something+new.)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+<p>
+<a href="https://github.com/KagamineP">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-### Hi there 👋, my name is Dmitry
-#### I am creator and voice of virtual vocalist Daichi Akiba
+<a href="https://kagaminep.ru">
+<img src="https://img.shields.io/badge/Website-1976D2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-- 🔭 I’m currently working on Daichi Akiba the virtual vocalist 
-- 🌱 I’m currently learning JavaScript, Python, Delphi, C++ 
-- 😄 Pronouns: He/him 
+<a href="https://twitter.com/KagamineP_">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
 
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KagamineP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/KagamineP_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kagaminep.ru/)  
+</div>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+---
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=KagamineP)](https://github.com/anuraghazra/github-readme-stats)
+# 💫 About Me
 
-[![KagamineP's GitHub stats](https://github-stats-extended.vercel.app/api?username=kagaminep)](https://github.com/stats-organization/github-stats-extended)
+```cpp
+class Dmitry
+{
+public:
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KagamineP)  
+    string Role = "Software Developer";
 
-![Profile views](https://gpvc.arturio.dev/KagamineP)  
+    string Specialization = "Desktop Applications";
+
+    string CurrentProject = "KagamiShell";
+
+    string VirtualVocalist = "Daichi Akiba";
+
+    vector<string> Languages =
+    {
+        "JavaScript",
+        "Python",
+        "Delphi",
+        "C++"
+    };
+
+    string Passion = "Open Source & Virtual Vocalists";
+};
+```
+
+---
+
+# 🚀 Current Projects
+
+| Project | Description |
+|:--------|:------------|
+| 🎤 **Daichi Akiba** | Virtual vocalist for UTAU & DeepVocal |
+| 💻 **KagamiShell** | Modern school shell based on Runpad |
+| 🌐 **KagamineP Website** | Official website |
+| ❤️ **Open Source** | Various public repositories |
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,git,github,vscode"/>
+
+</div>
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=KagamineP"/>
+
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KagamineP"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KagamineP&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KagamineP&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KagamineP&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+> *(Generate with GitHub Actions)*
+
+<img src="https://raw.githubusercontent.com/KagamineP/KagamineP/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📦 Featured Technologies
+
+<div align="center">
+
+![](https://img.shields.io/badge/Open_Source-Yes-success?style=for-the-badge)
+
+![](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge)
+
+![](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge)
+
+![](https://img.shields.io/badge/Loves-Coffee-brown?style=for-the-badge)
+
+![](https://img.shields.io/badge/Music-Virtual_Vocalists-purple?style=for-the-badge)
+
+</div>
+
+---
+
+# 🌍 Connect with Me
+
+<div align="center">
+
+<a href="https://github.com/KagamineP">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+<a href="https://kagaminep.ru">
+<img src="https://cdn.simpleicons.org/googlechrome/4DA6FF" width="55"/>
+</a>
+
+<a href="https://twitter.com/KagamineP_">
+<img src="https://cdn.simpleicons.org/x/ffffff" width="55"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://gpvc.arturio.dev/KagamineP">
+
+<br><br>
+
+<a href="https://archiveprogram.github.com/">
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="50">
+</a>
+
+<br><br>
+
+### ⭐ Thanks for visiting my profile!
+
+**Code • Music • Creativity**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:5E35B1,100:1976D2"/>
+
+</div>
