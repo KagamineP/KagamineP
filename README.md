@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KagamineP)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=KagamineP)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KagamineP&show_icons=true)  
+[![KagamineP's GitHub stats](https://github-stats-extended.vercel.app/api?username=kagaminep)](https://github.com/stats-organization/github-stats-extended)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KagamineP)  
 
