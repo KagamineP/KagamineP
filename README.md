@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1976D2,100:5E35B1&text=Dmitry Kiryanov&fontSize=70&fontAlignY=40&fontColor=ffffff&desc=Software%20Developer%20%E2%80%A2%20Creator%20of%20Daichi%20Akiba&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1976D2,100:5E35B1&text=Dmitry&fontSize=70&fontAlignY=40&fontColor=ffffff&desc=Software%20Developer%20%E2%80%A2%20Creator%20of%20Daichi%20Akiba&descAlignY=60"/>
 
 # 👋 Welcome to my GitHub!
 
