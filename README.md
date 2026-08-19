@@ -1,20 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1976D2,100:5E35B1&text=Dmitry&fontSize=70&fontAlignY=40&fontColor=ffffff&desc=Software%20Developer%20%E2%80%A2%20Creator%20of%20Daichi%20Akiba&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:07111F,45:0E2438,100:C8FF00&text=KagamineP&fontSize=70&fontAlignY=40&fontColor=ffffff&desc=Software%20Developer%20%E2%80%A2%20Virtual%20Vocalist%20Creator%20%E2%80%A2%20Open%20Source&descAlignY=60"/>
 
 # 👋 Welcome to my GitHub!
 
 ### Software Developer • Open Source Enthusiast • Creator of Daichi Akiba
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&pause=1700&color=4DA6FF&center=true&vCenter=true&width=850&lines=Building+KagamiShell...;Creating+Daichi+Akiba...;Open+Source+Developer...;Programming+%E2%98%95;Always+learning+something+new.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&pause=1700&color=C8FF00&center=true&vCenter=true&width=900&lines=Building+KagamiShell...;Developing+Daichi+Akiba...;Creating+Virtual+Vocalists...;Working+with+C%2B%2B+and+Python...;Exploring+UTAU+%26+DeepVocal...;Always+building+something+new.)](https://git.io/typing-svg)
 
 <p>
+
 <a href="https://github.com/KagamineP">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://kagaminep.ru">
-<img src="https://img.shields.io/badge/Website-1976D2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Team_KagamineP-07111F?style=for-the-badge&logo=googlechrome&logoColor=C8FF00"/>
+</a>
+
+<a href="https://daichiakiba.kagaminep.ru">
+<img src="https://img.shields.io/badge/Daichi_Akiba-C8FF00?style=for-the-badge&logo=musicbrainz&logoColor=111111"/>
 </a>
 
 <a href="https://twitter.com/KagamineP_">
@@ -30,27 +35,36 @@
 # 💫 About Me
 
 ```cpp
-class Dmitry
+class KagamineP
 {
 public:
 
-    string Role = "Software Developer";
+    std::string Role = "Software Developer";
 
-    string Specialization = "Desktop Applications";
+    std::string Specialization =
+        "Desktop Applications & Digital Synthesis";
 
-    string CurrentProject = "KagamiShell";
+    std::string CurrentProject =
+        "Daichi Akiba";
 
-    string VirtualVocalist = "Daichi Akiba";
+    std::string DevelopmentProject =
+        "KagamiShell";
 
-    vector<string> Languages =
+    std::vector<std::string> Languages =
     {
-        "JavaScript",
+        "C++",
         "Python",
-        "Delphi",
-        "C++"
+        "JavaScript",
+        "Delphi"
     };
 
-    string Passion = "Open Source & Virtual Vocalists";
+    std::vector<std::string> Interests =
+    {
+        "Open Source",
+        "Virtual Vocalists",
+        "Audio Technology",
+        "Software Development"
+    };
 };
 ```
 
@@ -60,10 +74,56 @@ public:
 
 | Project | Description |
 |:--------|:------------|
-| 🎤 **Daichi Akiba** | Virtual vocalist for UTAU & DeepVocal |
-| 💻 **KagamiShell** | Modern school shell based on Runpad |
-| 🌐 **KagamineP Website** | Official website |
-| ❤️ **Open Source** | Various public repositories |
+| 🎤 **Daichi Akiba** | Original virtual vocalist and digital character project for UTAU, OpenUTAU & DeepVocal |
+| 💻 **KagamiShell** | Modern Windows shell for educational computer environments |
+| 🌐 **Team KagamineP** | Development hub for software, vocal synthesis and creative projects |
+| 🎶 **Virtual Vocalists** | Research, recording and development of custom synthetic voices |
+| ❤️ **Open Source** | Public tools, experiments and development projects |
+
+---
+
+# 🎤 Daichi Akiba
+
+<div align="center">
+
+### **TKP001 — DAICHI AKIBA**
+
+**秋葉 大地**
+
+> *“Where a quiet voice turns into electrical resonance.”*
+
+**Virtual Vocalist • Cyberpunk Idol • TKP001**
+
+[🌐 Official Website](https://daichiakiba.kagaminep.ru)
+
+</div>
+
+Daichi Akiba is an original virtual vocalist developed by **Team KagamineP**.
+
+The project focuses on voice synthesis, character development and integration with vocal synthesis software such as:
+
+- UTAU
+- OpenUTAU
+- DeepVocal
+
+The official Daichi Akiba website contains the project profile, voicebank information, demonstrations, gallery, technical documentation, downloads and development history.
+
+---
+
+# 💻 KagamiShell
+
+**KagamiShell** is a Windows shell project designed for educational computer environments.
+
+The project aims to provide:
+
+- a modern desktop environment
+- application management
+- process control
+- security policies
+- configurable restrictions
+- a clean interface for shared computers
+
+The project is being developed primarily with **C++**.
 
 ---
 
@@ -71,9 +131,37 @@ public:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github,vscode,windows"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
+![Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+---
+
+# 🎧 Virtual Vocalist Development
+
+A large part of my work revolves around **voice synthesis and vocal software**.
+
+My interests include:
+
+- 🎤 UTAU voicebank development
+- 🎶 OpenUTAU
+- 🔊 DeepVocal
+- 🎛️ Vocal synthesis and recording
+- 🎵 Synthetic vocal production
+- 🧪 Experiments with custom vocal engines
 
 ---
 
@@ -121,7 +209,7 @@ public:
 
 <div align="center">
 
-> *(Generate with GitHub Actions)*
+> Generated with GitHub Actions
 
 <img src="https://raw.githubusercontent.com/KagamineP/KagamineP/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -129,19 +217,32 @@ public:
 
 ---
 
-# 📦 Featured Technologies
+# ⚙️ Development Environment
 
 <div align="center">
 
-![](https://img.shields.io/badge/Open_Source-Yes-success?style=for-the-badge)
+![OS](https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Editor](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge)
+</div>
 
-![](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge)
+---
 
-![](https://img.shields.io/badge/Loves-Coffee-brown?style=for-the-badge)
+# 📦 Featured
 
-![](https://img.shields.io/badge/Music-Virtual_Vocalists-purple?style=for-the-badge)
+<div align="center">
+
+![Open Source](https://img.shields.io/badge/Open_Source-Yes-success?style=for-the-badge)
+
+![Virtual Vocalists](https://img.shields.io/badge/Virtual_Vocalists-Yes-C8FF00?style=for-the-badge&logoColor=111111)
+
+![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge)
+
+![C++](https://img.shields.io/badge/Main_Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![Music](https://img.shields.io/badge/Music_%26_Audio-Development-5E35B1?style=for-the-badge)
 
 </div>
 
@@ -157,6 +258,10 @@ public:
 
 <a href="https://kagaminep.ru">
 <img src="https://cdn.simpleicons.org/googlechrome/4DA6FF" width="55"/>
+</a>
+
+<a href="https://daichiakiba.kagaminep.ru">
+<img src="https://cdn.simpleicons.org/musicbrainz/C8FF00" width="55"/>
 </a>
 
 <a href="https://twitter.com/KagamineP_">
@@ -181,8 +286,10 @@ public:
 
 ### ⭐ Thanks for visiting my profile!
 
-**Code • Music • Creativity**
+**Code • Music • Creativity • Virtual Voices**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:5E35B1,100:1976D2"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:C8FF00,50:07111F,100:00D9FF"/>
 
 </div>
